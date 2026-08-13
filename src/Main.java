@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Gestor semanal de gastos\n\n");
+        System.out.println("SISTEMA SEMANAL DE GASTOS");
 
         ArrayList<String> conceptos = new ArrayList<>();
         ArrayList<String> categorias = new ArrayList<>();
@@ -62,7 +62,7 @@ public class Main {
         System.out.print("Promedio por gasto: " + calcularTotal(montos)/conceptos.size() + "\n");
         System.out.print("Gasto Mayor: " + conceptos.get(obtenerPosicionGastoMayor(montos)) + " $" + montos.get(obtenerPosicionGastoMayor(montos)));
     }
-}
+
     public static void registrarGasto(
             ArrayList<String> conceptos,
             ArrayList<String> categorias,
