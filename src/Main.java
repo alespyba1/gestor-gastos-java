@@ -9,7 +9,7 @@ public class Main {
         double total = 0;
         for(double monto: montos){
             total += monto;
-        };
+        }
         return total;
     }
 
