@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d789fe8-5edc-4227-8afb-ed77d8fd9d67" name="Changes" comment="Agrega método para registrar gastos&#10;Agrega listado de gastos registrados">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="2d789fe8-5edc-4227-8afb-ed77d8fd9d67" name="Changes" comment="Entrega Práctica" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,9 +122,38 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Se creo la clase principal Main" />
     <MESSAGE value="Agrega método para registrar gastos&#10;Agrega listado de gastos registrados" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agrega método para registrar gastos&#10;Agrega listado de gastos registrados" />
+    <MESSAGE value="Entrega Práctica" />
+    <option name="LAST_COMMIT_MESSAGE" value="Entrega Práctica" />
   </component>
 </project>
